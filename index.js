@@ -13,5 +13,4 @@ function getCatInfo() {
     });
 }
 
-console.log(document.getElementById("getCatInfo"));
 document.getElementById("getCatInfo").onclick = getCatInfo;
